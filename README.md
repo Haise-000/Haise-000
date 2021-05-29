@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haise-000
 - 👀 I’m interested in C# and Java.
-- 🌱 I’m currently learning C# and Java.
+- 🌱 I’m currently learning C# Java Arduino and HTML5
 - 💞️ I’m looking to collaborate on Minecraft
 - 📫 You can reach me with Discord. Discord: Haise#7707
 
